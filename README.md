@@ -1,7 +1,9 @@
 # LEARN
 
-welcome to learn place
+welcome to learn place you can also Learn by watching tutorials or going into the folder of language which you want to learn and learn by seeing through comments and code
 
+
+# Learn By Watching Youtube Courses or By this Repo
 ## Learn Python
 - English - Free Code Camp Python Tutorial https://www.youtube.com/watch?v=rfscVS0vtbw
 - Hindi/Urdu - CodeWithHarry 100 Days of Python PlayList - https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg - RECOMMENDED
