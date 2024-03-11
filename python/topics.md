@@ -4,7 +4,8 @@
 - Python Syntax
 - Comments
 - Variables
-- DataTypes
+- Datatypes and related information including in Datatypes folder
+
 - Numbers
 - Casting
 - Strings
@@ -13,6 +14,10 @@
 - Tuples
 - Sets
 - Dictionaries
+
+
+
+
 - If Else
 - While Loops
 - For Loops
